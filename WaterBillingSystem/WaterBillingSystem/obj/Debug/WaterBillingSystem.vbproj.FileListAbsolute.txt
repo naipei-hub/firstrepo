@@ -1,0 +1,51 @@
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe.config
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.pdb
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.xml
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Form1.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmItem.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Resources.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbproj.GenerateResource.Cache
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.exe
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.xml
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.pdb
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmCustomer.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoice.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoiceReport.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmManageCustomer.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmpayment.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmPaymentReport.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmSettings.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmStaff.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmTaxReport.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmListCustmers.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmeditcustomer.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmAccount.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.LoginForm1.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe.config
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.pdb
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.xml
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbproj.AssemblyReference.cache
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Form1.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmAccount.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmCustomer.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmeditcustomer.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoice.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoiceReport.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmItem.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmManageCustomer.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmpayment.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmPaymentReport.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmSettings.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmStaff.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmTaxReport.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmListCustmers.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.LoginForm1.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Resources.resources
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbproj.GenerateResource.cache
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.exe
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.xml
+C:\Users\mel\OneDrive\Desktop\My system\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.pdb
